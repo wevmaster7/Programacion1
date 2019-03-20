@@ -1,0 +1,14 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Metodo1.dll
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Metodo1.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.csprojResolveAssemblyReference.cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Metodo2.dll
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Metodo2.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Metodo3.dll
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Metodo3.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Metodo4.dll
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Parcial2\bin\Debug\Metodo4.pdb

@@ -1,0 +1,4 @@
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo4\bin\Debug\Metodo4.dll
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo4\bin\Debug\Metodo4.pdb
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo4\obj\Debug\Metodo4.dll
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo4\obj\Debug\Metodo4.pdb

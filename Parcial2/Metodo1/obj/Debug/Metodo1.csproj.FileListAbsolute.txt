@@ -1,0 +1,5 @@
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo1\obj\Debug\Metodo1.csprojResolveAssemblyReference.cache
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo1\bin\Debug\Metodo1.dll
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo1\bin\Debug\Metodo1.pdb
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo1\obj\Debug\Metodo1.dll
+c:\Users\wevmaster\documents\visual studio 2013\Projects\Parcial2\Metodo1\obj\Debug\Metodo1.pdb
