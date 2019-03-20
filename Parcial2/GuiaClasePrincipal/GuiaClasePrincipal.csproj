@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B48EADFF-1790-4673-8FD0-86E875AF7DEA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GuiaClasePrincipal</RootNamespace>
+    <AssemblyName>GuiaClasePrincipal</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cls_Ejercicio34.cs" />
+    <Compile Include="Cls_Ejercicio21.cs" />
+    <Compile Include="Cls_Ejercicio1.cs" />
+    <Compile Include="Cls_Ejercicio10.cs" />
+    <Compile Include="Cls_Ejercicio11.cs" />
+    <Compile Include="Cls_Ejercicio12.cs" />
+    <Compile Include="Cls_Ejercicio13.cs" />
+    <Compile Include="Cls_Ejercicio14.cs" />
+    <Compile Include="Cls_Ejercicio15.cs" />
+    <Compile Include="Cls_Ejercicio17.cs" />
+    <Compile Include="Cls_Ejercicio18.cs" />
+    <Compile Include="Cls_Ejercicio19.cs" />
+    <Compile Include="Cls_Ejercicio2.cs" />
+    <Compile Include="Cls_Ejercicio20.cs" />
+    <Compile Include="Cls_Ejercicio22.cs" />
+    <Compile Include="Cls_Ejercicio23.cs" />
+    <Compile Include="Cls_Ejercicio24.cs" />
+    <Compile Include="Cls_Ejercicio25.cs" />
+    <Compile Include="Cls_Ejercicio26.cs" />
+    <Compile Include="Cls_Ejercicio27.cs" />
+    <Compile Include="Cls_Ejercicio28.cs" />
+    <Compile Include="Cls_Ejercicio29.cs" />
+    <Compile Include="Cls_Ejercicio3.cs" />
+    <Compile Include="Cls_Ejercicio30.cs" />
+    <Compile Include="Cls_Ejercicio31.cs" />
+    <Compile Include="Cls_Ejercicio32.cs" />
+    <Compile Include="Cls_Ejercicio33.cs" />
+    <Compile Include="Cls_ejercicio35.cs" />
+    <Compile Include="Cls_Ejercicio36.cs" />
+    <Compile Include="Cls_Ejercicio37.cs" />
+    <Compile Include="Cls_Ejercicio38.cs" />
+    <Compile Include="Cls_Ejercicio39.cs" />
+    <Compile Include="Cls_Ejercicio4.cs" />
+    <Compile Include="Cls_Ejercicio40.cs" />
+    <Compile Include="Cls_Ejercicio5.cs" />
+    <Compile Include="Cls_Ejercicio6.cs" />
+    <Compile Include="Cls_Ejercicio7.cs" />
+    <Compile Include="Cls_Ejercicio8.cs" />
+    <Compile Include="Cls_Ejercicio9.cs" />
+    <Compile Include="Cls_Ejercicio16.cs" />
+    <Compile Include="Principal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

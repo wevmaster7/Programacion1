@@ -1,0 +1,6 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\GuiaClasePrincipal\GuiaClasePrincipal\bin\Debug\GuiaClasePrincipal.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\GuiaClasePrincipal\GuiaClasePrincipal\bin\Debug\GuiaClasePrincipal.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\GuiaClasePrincipal\GuiaClasePrincipal\bin\Debug\GuiaClasePrincipal.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\GuiaClasePrincipal\GuiaClasePrincipal\obj\Debug\GuiaClasePrincipal.csprojResolveAssemblyReference.cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\GuiaClasePrincipal\GuiaClasePrincipal\obj\Debug\GuiaClasePrincipal.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\GuiaClasePrincipal\GuiaClasePrincipal\obj\Debug\GuiaClasePrincipal.pdb
