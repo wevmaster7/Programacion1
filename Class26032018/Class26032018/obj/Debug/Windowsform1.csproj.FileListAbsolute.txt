@@ -1,0 +1,11 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\bin\Debug\Class26032018.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\bin\Debug\Class26032018.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\bin\Debug\Class26032018.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\bin\Debug\Class1.dll
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\bin\Debug\Class1.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\obj\Debug\Windowsform1.csprojResolveAssemblyReference.cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\obj\Debug\Class26032018.formOperaciones.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\obj\Debug\Class26032018.Properties.Resources.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\obj\Debug\Windowsform1.csproj.GenerateResource.Cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\obj\Debug\Class26032018.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\Class26032018\Class26032018\obj\Debug\Class26032018.pdb
