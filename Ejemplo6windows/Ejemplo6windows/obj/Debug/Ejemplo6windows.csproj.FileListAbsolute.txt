@@ -1,0 +1,6 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\Ejemplo6windows\Ejemplo6windows\bin\Debug\Ejemplo6windows.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\Ejemplo6windows\Ejemplo6windows\obj\Debug\Ejemplo6windows.csprojResolveAssemblyReference.cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\Ejemplo6windows\Ejemplo6windows\obj\Debug\Ejemplo6windows.Form1.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\Ejemplo6windows\Ejemplo6windows\obj\Debug\Ejemplo6windows.MDIParent1.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\Ejemplo6windows\Ejemplo6windows\obj\Debug\Ejemplo6windows.Properties.Resources.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\Ejemplo6windows\Ejemplo6windows\obj\Debug\Ejemplo6windows.csproj.GenerateResource.Cache
