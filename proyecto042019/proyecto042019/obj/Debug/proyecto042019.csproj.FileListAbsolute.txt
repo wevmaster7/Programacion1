@@ -1,0 +1,9 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\bin\Debug\proyecto042019.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\bin\Debug\proyecto042019.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\bin\Debug\proyecto042019.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\obj\Debug\proyecto042019.csprojResolveAssemblyReference.cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\obj\Debug\proyecto042019.Form1.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\obj\Debug\proyecto042019.Properties.Resources.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\obj\Debug\proyecto042019.csproj.GenerateResource.Cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\obj\Debug\proyecto042019.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\proyecto042019\proyecto042019\obj\Debug\proyecto042019.pdb
