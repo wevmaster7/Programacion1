@@ -1,0 +1,9 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\bin\Debug\Parcial3ok.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\obj\Debug\Parcial3ok.csprojResolveAssemblyReference.cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\obj\Debug\Parcial3ok.Form1.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\obj\Debug\Parcial3ok.Properties.Resources.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\obj\Debug\Parcial3ok.csproj.GenerateResource.Cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\bin\Debug\Parcial3ok.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\bin\Debug\Parcial3ok.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\obj\Debug\Parcial3ok.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\Parcial3ok\Parcial3ok\obj\Debug\Parcial3ok.pdb
