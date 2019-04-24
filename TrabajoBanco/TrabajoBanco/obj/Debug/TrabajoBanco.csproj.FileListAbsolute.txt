@@ -1,0 +1,9 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\bin\Debug\TrabajoBanco.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\bin\Debug\TrabajoBanco.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\bin\Debug\TrabajoBanco.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\obj\Debug\TrabajoBanco.Form1.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\obj\Debug\TrabajoBanco.Properties.Resources.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\obj\Debug\TrabajoBanco.csproj.GenerateResource.Cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\obj\Debug\TrabajoBanco.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\obj\Debug\TrabajoBanco.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\TrabajoBanco\TrabajoBanco\obj\Debug\TrabajoBanco.csprojResolveAssemblyReference.cache
