@@ -1,0 +1,9 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\bin\Debug\AplicacionEventos.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.csprojResolveAssemblyReference.cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.Form1.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.Properties.Resources.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.csproj.GenerateResource.Cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\AplicacionEventos\AplicacionEventos\obj\Debug\AplicacionEventos.pdb
