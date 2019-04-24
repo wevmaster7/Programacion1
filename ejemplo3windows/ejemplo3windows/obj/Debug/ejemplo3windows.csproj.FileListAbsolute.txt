@@ -1,0 +1,9 @@
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\bin\Debug\ejemplo3windows.exe.config
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\bin\Debug\ejemplo3windows.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\bin\Debug\ejemplo3windows.pdb
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\obj\Debug\ejemplo3windows.csprojResolveAssemblyReference.cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\obj\Debug\ejemplo3windows.Form1.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\obj\Debug\ejemplo3windows.Properties.Resources.resources
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\obj\Debug\ejemplo3windows.csproj.GenerateResource.Cache
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\obj\Debug\ejemplo3windows.exe
+c:\users\wevmaster\documents\visual studio 2013\Projects\ejemplo3windows\ejemplo3windows\obj\Debug\ejemplo3windows.pdb
