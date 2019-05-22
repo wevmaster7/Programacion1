@@ -1,0 +1,5 @@
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaDatos\obj\Debug\CapaDatosHospital.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaDatos\obj\Debug\CapaDatos.pdb

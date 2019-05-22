@@ -1,0 +1,7 @@
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\capaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\capaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\capaNegocio\obj\Debug\CAPANEGOCIOS.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\capaNegocio\obj\Debug\capaNegocio.pdb

@@ -1,0 +1,13 @@
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\obj\Debug\PRESENTACION.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\obj\Debug\PRESENTACION.csproj.GenerateResource.Cache
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Lab3\Downloads\Solution1\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
